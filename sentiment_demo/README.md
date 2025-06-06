@@ -16,6 +16,16 @@ The system uses the following key components:
 - Machine learning model (Random Forest Classifier)
 - Real-time audio processing capabilities
 
+## Dataset
+
+This demo uses the CREMA-D dataset. To use this demo:
+
+1. Download the CREMA-D dataset from [Kaggle](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en)
+2. Place the audio files in the `sentiment_demo/Crema/` directory
+3. The audio files should be in WAV format
+
+Note: The dataset is not included in this repository due to its size. Please download it separately from the Kaggle link above.
+
 ## Requirements
 
 ```bash
