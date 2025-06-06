@@ -1,0 +1,12 @@
+venv/
+env/
+ENV/
+.env
+.venv
+
+.gitignore
+.DS_Store
+
+# Dataset
+sentiment_demo/Crema/
+*.wav
